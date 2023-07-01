@@ -5,20 +5,7 @@ Back-End | C# | Java (Spring Boot) | Python | PHP | Laravel | Docker | JavaScrip
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at boanerges.avila@gmail.com
 * 🚀  I'm currently working on Saly
-<!--
-**josebmonteiro/josebmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://www.github.com/josebmonteiro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
@@ -81,7 +68,6 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/nodejs.svg" width="36" height="36" alt="NodeJS"/>
   </a>
-  
   <!-- MS SQL -->
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/microsoftsqlserver.svg" width="36" height="36" alt="mssqlserver"/>
