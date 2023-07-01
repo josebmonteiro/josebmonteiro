@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm José Monteiro
+Back-End Developer
+Back-End | C# | Java (Spring Boot) | Python | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Azure) | MS SQL | Oracle | Postgres | MySQL | MongoDB | DevOps (Terraform)
 
+🌍  I'm based in Brazil
+✉️  You can contact me at boanerges.avila@gmail.com
+🚀  I'm currently working on Saly
 <!--
 **josebmonteiro/josebmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
