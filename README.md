@@ -116,3 +116,30 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
     <img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/linkedin.svg" width="32" height="32" />
   </a>
 </p>
+
+### Badges
+
+<!-- AWS General Immersion Day Participant -->
+<a href="https://www.credly.com/badges/4b04d341-9f43-4426-a282-5676257f92a4/linked_in_profile" target="_blank" rel="noreferrer">
+  <img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/aws-certificate.svg" width="36" height="36" alt="AWS-Certificate"/>
+</a>
+<!-- Microsoft -->
+<a href="https://www.credly.com/badges/4da1250b-81fc-4742-9a72-cea6f7a6e14e/linked_in" target="_blank" rel="noreferrer">
+  <img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/microsoft.svg" width="36" height="36" alt="Microsoft"/>
+</a>
+<!-- PMI-CAPM -->
+<a href="https://www.credly.com/badges/b9a82feb-d10d-4d43-bb46-e7815b06a8a7/linked_in" target="_blank" rel="noreferrer">
+  <img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/pmi2.svg" width="36" height="36" alt="PMI"/>
+</a>
+
+### My GitHub Stats
+
+<a href="http://www.github.com/josebmonteiro">
+  <img src="https://github-readme-stats.vercel.app/api?username=josebmonteiro&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josebmonteiro's GitHub stats" />
+</a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/josebmonteiro">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+</a>
