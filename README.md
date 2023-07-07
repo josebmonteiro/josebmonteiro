@@ -135,7 +135,8 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
 ### My GitHub Stats
 
 <a href="http://www.github.com/josebmonteiro">
-  <img src="https://github-readme-stats.vercel.app/api?username=josebmonteiro&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josebmonteiro's GitHub stats" />
+  <!--<img src="https://github-readme-stats.vercel.app-->
+    <img src="https://vercels-pl90ipl2o-josebmonteiro.vercel.app/api?username=josebmonteiro&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="josebmonteiro's GitHub stats" />
 </a>
 
 ### Support Me
