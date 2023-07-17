@@ -12,6 +12,14 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
 ### Skills
 
 <p align="left">
+  <!-- Flutter -->
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+  	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/flutter.svg" width="36" height="36" alt="flutter"/>
+  </a>
+  <!-- Dart -->
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/dart.svg" width="36" height="36" alt="dart"/>
+  </a>
   <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/csharp.svg" width="36" height="36" alt="CSharp"/>
