@@ -25,6 +25,10 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/csharp.svg" width="36" height="36" alt="CSharp"/>
   </a>
   <!-- Java -->
+  <a href="https://java.com/" target="_blank" rel="noreferrer">
+  	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/java.svg" width="36" height="36" alt="Java"/>
+  </a>
+  <!-- Java Spring Boot -->
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/javaspringboot.svg" width="36" height="36" alt="JavaSpringBoot"/>
   </a>
