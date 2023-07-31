@@ -80,7 +80,7 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/microsoftsqlserver.svg" width="36" height="36" alt="mssqlserver"/>
   </a>
-  <!-- Oracle
+  <!-- Oracle -->
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
   	<img src="https://github.com/josebmonteiro/josebmonteiro/blob/main/logos/oracle.svg" width="36" height="36" alt="Oracle"/>
   </a>
