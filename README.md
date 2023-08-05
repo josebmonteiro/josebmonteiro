@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm José Monteiro
 Back-End Developer
-Back-End | C# | Java (Spring Boot) | Python | PHP | Laravel | Docker | JavaScript | Vuejs | TypeScript | NodeJS | Cloud Jr. (AWS, GCP, Azure) | MS SQL | Oracle | Postgres | MySQL | MongoDB | DevOps (Terraform)
+Back-End | C# | Java | PHP | Python | .Net | Spring Boot | Hibernate | EJB | Maven | Laravel | Docker | JavaScript | Vuejs | NodeJS | Cloud (AWS, Azure) | MS SQL | Oracle | Postgres | MySQL | MongoDB | Terraform (IaC)
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at boanerges.avila@gmail.com
@@ -133,10 +133,6 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
     <!-- Azure -->
     <a href="https://portal.azure.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=azure" />
-    </a>
-    <!-- Google -->
-    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=gcp" />
     </a>
   </p>
 </div>
