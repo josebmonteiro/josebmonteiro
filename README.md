@@ -240,7 +240,7 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
   </a>
 </div>
 
-### My GitHub Stats
+## **My GitHub Stats**
 
 <div align="center">
   <a href="https://github.com/josebmonteiro">
@@ -267,7 +267,7 @@ src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for
   </a>
 </div>
 
-### Support Me
+## **Support Me**
 
 <a href="https://www.buymeacoffee.com/josebmonteiro">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
