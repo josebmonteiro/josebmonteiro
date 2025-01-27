@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm José Monteiro
-Back-End Developer
-Back-End | C# | Java | PHP | Python | .Net | Spring Boot | Hibernate | EJB | Maven | Laravel | Docker | JavaScript | Vuejs | NodeJS | Cloud (AWS, Azure) | MS SQL | Oracle | Postgres | MySQL | MongoDB | Terraform (IaC)
+Software Engineer and Data Scientist.
+PHP | Laravel | Python | C# | .Net | Java | Spring Boot | Hibernate | EJB | Maven | Docker | JavaScript | Vuejs | NodeJS | Cloud (AWS, Azure) | MS SQL | Oracle | Postgres | MySQL | MongoDB | Terraform (IaC)
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at boanerges.avila@gmail.com
-* 🚀  I'm currently working on Saly
+* ✉️  You can contact me at boanerges.monteiro1@gmail.com
+* 🚀  I'm founder of Ikotei
 
 <a href="https://www.github.com/josebmonteiro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/josebmonteiro?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
